@@ -29,4 +29,4 @@ def swipe_direction(ld_name, direction, duration_ms=500):
 
 def move_random(ld_name):
     direction = random.choice(["UP", "DOWN", "LEFT", "RIGHT"])
-    swipe_direction(direction, duration_ms=400)
+    swipe_direction(ld_name, direction, duration_ms=400)

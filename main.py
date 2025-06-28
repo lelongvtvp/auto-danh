@@ -16,7 +16,7 @@ def run_bot():
 
         print("❌ Không có quái → bắt đầu tìm...")
         for _ in range(10):
-            move_random()
+            move_random(ld_name)
             switch_target()
             if is_fighting():
                 print("🎯 Đã tìm thấy quái → nhấn Treo")
