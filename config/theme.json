@@ -1,0 +1,8 @@
+{
+  "theme": "dark",
+  "primary": "#4dd0e1",
+  "background": "#263238",
+  "accent": "#80deea",
+  "error": "#d32f2f",
+  "warning": "#f57c00"
+}
