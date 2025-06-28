@@ -2,8 +2,8 @@
 
 
 # Vị trí nút "Chuyển mục tiêu"
-SWITCH_TARGET_X = 1110
-SWITCH_TARGET_Y = 630
+SWITCH_TARGET_X = 1057
+SWITCH_TARGET_Y = 640
 
 # Vị trí nút "Treo"
 TREO_BUTTON_X = 1221
